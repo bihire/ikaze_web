@@ -1,2 +1,2 @@
 # ikaze_web
-web app of ikaze platform
+web app of ikaze platform 
